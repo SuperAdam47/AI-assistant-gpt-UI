@@ -5,30 +5,21 @@ class MyDocument extends Document {
     return (
       <Html lang="en">
         <Head>
-          <link rel="icon" href="/favicon.ico" />
           <meta
             name="description"
             content="AI Chat powered by Mixtral MOE and Together.ai."
           />
-          <meta property="og:site_name" content="simple-ai-chat.vercel.app" />
+          <meta property="og:site_name" content="simple AI assistant" />
           <meta
             property="og:description"
             content="AI Chat powered by Mixtral MOE and Together.ai."
           />
-          <meta property="og:title" content="Twitter Bio Generator" />
-          <meta name="twitter:card" content="summary_large_image" />
-          <meta name="twitter:title" content="Twitter Bio Generator" />
+          <meta property="og:title" content="simple AI assistant" />
+          <meta name="twitter:card" content="summary" />
+          <meta name="twitter:title" content="simple AI assistant" />
           <meta
             name="twitter:description"
             content="AI Chat powered by Mixtral MOE and Together.ai."
-          />
-          <meta
-            property="og:image"
-            content="https://simple-ai-chat.vercel.app/og-image.png"
-          />
-          <meta
-            name="twitter:image"
-            content="https://simple-ai-chat.vercel.app/og-image.png"
           />
         </Head>
         <body>

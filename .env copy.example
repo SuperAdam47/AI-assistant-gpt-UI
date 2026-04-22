@@ -1,0 +1,7 @@
+TOGETHER_API_KEY=
+
+# Use URL-encoded password in URI if it contains special characters.
+MONGODB_URI=mongodb+srv://USER:PASSWORD@cluster.mongodb.net/?retryWrites=true&w=majority
+MONGODB_DB=aiassistant
+# Optional override (default: analysis_log)
+# MONGODB_ANALYSIS_LOG_COLLECTION=analysis_log

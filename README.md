@@ -1,8 +1,8 @@
-# Chat app
+# simple AI assistant
 
 A simple Next.js chat app that uses Mixtral MOE through Together.ai. It shows off how to do streaming with open source LLMs using Next.js and Together.ai.
 
-[![Simple Chat app](./public/screenshot.png)](https://simple-ai-chat.vercel.app)
+[![simple AI assistant](./public/screenshot.png)](https://simple-ai-chat.vercel.app)
 
 ## How it works
 
