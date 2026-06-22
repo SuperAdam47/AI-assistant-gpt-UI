@@ -52,10 +52,6 @@ const Home: NextPage = () => {
         <h1 className="sm:text-6xl text-4xl max-w-[708px] font-bold text-slate-900">
           Write a message.
         </h1>
-        <p className="text-slate-500 font-medium mt-4">
-          Your text is stored in the database; an administrator will review it
-          soon.
-        </p>
         <form
           className="max-w-xl w-full"
           onSubmit={saveUserMessage}
